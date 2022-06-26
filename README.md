@@ -1,7 +1,7 @@
 ## Dining Philosophers Problem using Network Calls in Distributed Systems
 --------------------------------------------------
 
-This program demonstrates a solution to Dining Philosophers's Problem using Message Passing as the only means of communication.
+This program demonstrates a solution to Dining Philosophers's Problem using Network Calls as the only means of communication.
 
 ## What is Dining Philosopher Problem?
 
